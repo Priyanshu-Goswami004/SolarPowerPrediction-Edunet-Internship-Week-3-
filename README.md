@@ -52,7 +52,6 @@ Secondary Factors: Temperature and Wind Speed enhance efficiency but are less im
 Model Focus: Prioritize shortwave radiation and cloud cover in prediction models.
 How to Run:
 Clone the repository:
-git clone https://github.com/monasri001/SolarPowerPrediction-Edunet-Internship.git
 Install the required libraries:
 pip install -r requirements.txt
 Open the Jupyter Notebook or vs code:
